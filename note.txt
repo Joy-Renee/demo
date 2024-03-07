@@ -1,3 +1,9 @@
 Github
 git init - initia
 create a git hub repo
+git add .
+git commit 
+git remote add orgin git@github.com:Joy-Renee/demo.git
+--------------------------
+git branch
+git check out or switch
