@@ -2,8 +2,15 @@ Github
 git init - initia
 create a git hub repo
 git add .
-git commit 
+git commit git commit -m "Initial commit"
 git remote add orgin git@github.com:Joy-Renee/demo.git
 --------------------------
 git branch
 git check out or switch
+git push origin main
+
+
+
+git remote add origin git@github.com:Joy-Renee/demo.git
+git branch -M main
+git push -u origin main
