@@ -1,0 +1,32 @@
+/*Anatomy of css styling*/
+
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: 220%;
+}
+.gen{
+    color: black;
+}
+
+.stdn{
+    color: rgb(217, 32, 75);
+}
+
+#zen1{
+    font-style: italic;
+}
+#zen2{
+    font-style: italic;
+} 
+
+
+
+
+
+
+/* css selectors */
+/* 1. tag selectors
+2. class selectors
+3.ID selectors */
